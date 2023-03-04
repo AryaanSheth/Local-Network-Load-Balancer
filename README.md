@@ -1,2 +1,2 @@
 # Local-Network-Load-Balancer
-Load balancer made in Go that is used to balance local host connections
+Made to balance network loads on my Raspberry Pi servers for my local host connections
